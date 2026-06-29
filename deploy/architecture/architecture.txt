@@ -1,0 +1,20 @@
+USER
+ |
+ |
+ v
+
+Compute Engine
+ |
+ +---- Frontend Container
+ |
+ +---- PHP API Container
+ |
+ v
+
+Cloud SQL
+
+Images
+ |
+ v
+
+Cloud Storage
